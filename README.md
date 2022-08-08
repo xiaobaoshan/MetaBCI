@@ -1,2 +1,2 @@
 # MetaBCI
-Data Analysis Module
+This is the data analysis module in MetaBCI
